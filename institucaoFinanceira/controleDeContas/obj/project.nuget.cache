@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5DLPNSQoXE90fhp0UMDnygcPq8OaOq75f4gau4Ktce+J1+wBhcc1/yiTmsP7aKMHr9K+tDS6ctznhYXoAgw+1g==",
+  "dgSpecHash": "xGKYQQzk6Xb9qZjyxukkKF73ASaRxIGKxvRiMks3ob7PkOVbExlADZObym5u9B8Pwq9aRA1yWR4jt7F44UipxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno\\Downloads\\institucaoFinanceira\\controleDeContas\\controleDeContas.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\bruno\\Source\\Repos\\InstituicaoFinanceira\\institucaoFinanceira\\controleDeContas\\controleDeContas.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
