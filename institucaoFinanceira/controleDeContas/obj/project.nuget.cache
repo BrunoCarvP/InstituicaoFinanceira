@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xGKYQQzk6Xb9qZjyxukkKF73ASaRxIGKxvRiMks3ob7PkOVbExlADZObym5u9B8Pwq9aRA1yWR4jt7F44UipxA==",
+  "dgSpecHash": "E0ljmNlSCAk4YdWXe+3XDB4Kp2EepZEwn5T92XrKUclFDRSxL5Dw4iPBFrZuxGXFIhnZOaeK5qZ/Ki/UJTliJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno\\Source\\Repos\\InstituicaoFinanceira\\institucaoFinanceira\\controleDeContas\\controleDeContas.csproj",
+  "projectFilePath": "C:\\Users\\bruno\\source\\repos\\InstituicaoFinanceira\\institucaoFinanceira\\controleDeContas\\controleDeContas.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

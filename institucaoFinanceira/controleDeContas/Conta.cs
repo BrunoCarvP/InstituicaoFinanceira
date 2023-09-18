@@ -10,11 +10,16 @@ namespace controleDeContas
 {
     public class Conta
     {
-        public Conta(long numero, Cliente titular, string banco)
+        public Conta(long numero, Cliente titular, string banco, int bancoAgencia, int bancoCep, int bancoTel)
         {
+         
             Numero = numero;
             Titular = titular;
-            banco = banco;
+            Banco = banco;
+            Agencia = bancoAgencia;
+            Cep = bancoCep;
+            Tel = bancoTel;
+
 
         }
 
@@ -22,6 +27,10 @@ namespace controleDeContas
         public decimal Saldo { get; set; }
         public string Banco { get; set; }
         public Cliente Titular { get; set; }
+        public int Agencia { get; set; }
+        public int Cep { get; set; }
+        public int Tel { get; set; }
+
 
 
 
@@ -35,7 +44,7 @@ namespace controleDeContas
         }
         public void Saque(decimal valor)
         {
-            if (valor > 0)
+            if (valor > 0 && Saldo > valor)
             {
 
                 Saldo -= (valor + 0.10m);
